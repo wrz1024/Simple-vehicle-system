@@ -1,1 +1,2 @@
-# Simple-vehicle-system
+实现车载系统界面，有天气查询，视频，音频播放功能
+可在linux下的QT中运行，有mplayer组件播放。
